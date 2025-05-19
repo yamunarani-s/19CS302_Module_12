@@ -1,4 +1,4 @@
-# EX 56 C function to display stack elements using Linked List.(store integer data in stack) .
+3efr3# EX 56 C function to display stack elements using Linked List.(store integer data in stack) .
 ## DATE:
 ## AIM:
 To write a C function to display stack elements using Linked List.
